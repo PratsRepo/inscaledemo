@@ -1,1 +1,1 @@
-This code is just for the demo in inscale
+This code is just for the demo for inscale
