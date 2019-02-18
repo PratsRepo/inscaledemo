@@ -10,7 +10,7 @@ def element_exist(b,element):
     else:
         print "not visible"
 
-
+#hello
 #-------------------------------------
 b = webdriver.Firefox()
 b.get('http://google.com')
